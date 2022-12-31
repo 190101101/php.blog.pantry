@@ -1,0 +1,32 @@
+.portfolio-item {
+  margin-bottom: 30px;
+  color: inherit !important;
+}
+
+.portfolio-item a{
+  text-decoration: none !important;
+  outline: none;
+  color: inherit;
+}
+
+.portfolio-item a:hover{
+  color: inherit;
+}
+
+
+a{
+  text-decoration: none !important;
+  outline: none;
+}
+
+textarea{
+  resize: none !important;
+}
+
+.lead{
+  word-break: break-all;
+}
+
+.hover-dark:hover{
+  background: #18171C !important;
+}

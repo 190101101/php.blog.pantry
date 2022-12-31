@@ -1,0 +1,38 @@
+<?php 
+
+return (object) [
+    'success' => 'Əməliyyat uğurla keçdi',
+    'created' => 'uğurla yaradılmışdır',
+    'updated' => 'uğurla yeniləndi',
+    'deleted' => 'uğurla silindi',
+    'empty' => 'Heç nə tapılmadı',
+    'category_empty' => 'bu kateqoriya üçün məqalə yoxdur',
+    'section_empty' => 'bu section üçün məqalə yoxdur',
+    'error_request' => 'Sorğu etibarlı deyil ',
+    'error_form' => 'forma səhvdir',
+    'status_success' => 'status uğurla yeniləndi',
+    'status_error' => 'statusu yeniləmək alınmadı',
+    'status_zero' => 'sizin statusunuz 0-dır, yəni bloklanmısınız',
+    'delete_success' => 'uğurla silindi',
+    'delete_error' => 'silmək mümkün olmadı',
+    'already_have' => 'belə bir post artıq mövcuddur',
+    'already_save' => 'siz artıq bu məqaləni yadda saxlamisiniz',
+    'not_found' => 'tapılmadı',
+    'login' => 'Oo, bu sənsən? xoş gəlmisiən...',
+    'logout' => 'artıq gedirsən?',
+    'registered' => 'uğurla qeydiyyatdan keçdiniz',
+    'user_not_found' => 'belə bir istifadəçi yoxdur',
+    'login_pass_wrong' => 'login/şifrə səhvdir ',
+    'user_already' => 'bu login-de istifadəçi mövcuddur',
+    'type_error' => 'fayl növü düzgün deyil ',
+    'empty_error' => 'fayl boşdur və ya növ etibarsızdır ',
+    'allow_error' => 'fayl növü və icazə düzgün deyil ',
+    'size_error' => 'fayl ölçüsü çox böyükdür',
+    'error_db' => 'serverdə xəta baş verdi.. sonra yenidən yoxlayın',
+    'error_http' => 'siz saytları addım-addım gəzməlisiniz',
+    'error' => 'serverdə nəsə xəta baş verdi...',
+    'errors' => 'serverdə nəsə xəta baş verdi...',
+    'forbidden' => 'bu məlumat dəyişdirilə bilməz...',
+];
+
+?>

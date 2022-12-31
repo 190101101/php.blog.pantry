@@ -1,0 +1,18 @@
+{
+    "autoload":{
+        "psr-4":{
+            "core\\":"core/",
+            "modulus\\":"modulus/",
+            "Pattern\\":"Pattern/",
+            "library\\":"library/",
+            "middleware\\":"middleware/"
+        },
+        "classmap":[
+            "use/"
+        ]
+    },
+    "require": {
+        "vlucas/valitron": "^1.4",
+        "fzaninotto/faker": "^1.9"
+    }
+}
